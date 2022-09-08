@@ -1,19 +1,19 @@
 <h1 align="center">Hey 👋, I'm Harshit Yadav</h1>
-<h3 align="center">A passionate Frontend Developer from India</h3>
+<h3 align="center">A passionate frontend developer from India</h3>
 
 <p>
   <a
     href="https://giphy.com/gifs/scaler-official-sleep-code-coding-bAQH7WXKqtIBrPs7sR"
-    ></a
+    >via GIPHY</a
   >
 </p>
 
-- 🔭 I’m currently working on **React Chat App** - 🌱 I’m currently learning
-**React Js** - 👨‍💻 All of my projects are available at
-[https://codemaster17.github.io/Portfolio-website/](https://codemaster17.github.io/Portfolio-website/)
-- 💬 Ask me about **Frontend Development** - 📫 How to reach me
-**cricharshit17@gmail.com** - 📄 Know about my experiences
-[https://drive.google.com/file/d/1sWJlY7B_sek7uZCBAS3kya1NoXsC784z/view?usp=sharing](https://drive.google.com/file/d/1sWJlY7B_sek7uZCBAS3kya1NoXsC784z/view?usp=sharing)
+- 🔭 I’m currently working on **React Chat App**
+- 🌱 I’m currently learning **React Js** 
+- 👨‍💻 All of my projects are available at [https://codemaster17.github.io/Portfolio-website/](https://codemaster17.github.io/Portfolio-website/)
+- 💬 Ask me about **Frontend Development** 
+- 📫 How to reach me **cricharshit17@gmail.com** 
+- 📄 Know about my experiences [https://drive.google.com/file/d/1sWJlY7B_sek7uZCBAS3kya1NoXsC784z/view?usp=sharing](https://drive.google.com/file/d/1sWJlY7B_sek7uZCBAS3kya1NoXsC784z/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
