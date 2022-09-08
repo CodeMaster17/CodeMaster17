@@ -1,13 +1,6 @@
 <h1 align="center">Hey 👋, I'm Harshit Yadav</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img
-  src="https://giphy.com/embed/bAQH7WXKqtIBrPs7sR"
-  width="480"
-  height="268"
-  frameborder="0"
-  class="giphy-embed"
-  allowfullscreen
-></img>
+
 <p>
   <a
     href="https://giphy.com/gifs/scaler-official-sleep-code-coding-bAQH7WXKqtIBrPs7sR"
