@@ -4,7 +4,7 @@
 <p>
   <a
     href="https://giphy.com/gifs/scaler-official-sleep-code-coding-bAQH7WXKqtIBrPs7sR"
-    >via GIPHY</a
+    ></a
   >
 </p>
 
