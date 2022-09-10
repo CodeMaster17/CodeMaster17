@@ -1,12 +1,6 @@
 <h1 align="center">Hey 👋, I'm Harshit Yadav</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p>
-  <a
-    href="https://giphy.com/gifs/scaler-official-sleep-code-coding-bAQH7WXKqtIBrPs7sR"
-    ></a
-  >
-</p>
 
 - 🔭 I’m currently working on **React Chat App**
 - 🌱 I’m currently learning **React Js** 
