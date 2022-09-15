@@ -1,6 +1,6 @@
 <h1 align="center">Hey 👋, I'm Harshit Yadav</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-
+<img align="right" alt="Coding" width="400" src="https://www.mooc.org/hubfs/what-computer-programming-jobs-offer-remote-work-jpg.jpeg"/>
 
 - 🔭 I’m currently working on **React Chat App**
 - 🌱 I’m currently learning **React Js** 
