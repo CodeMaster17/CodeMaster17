@@ -1,10 +1,6 @@
 <h1 align="center"> I'm Harshit Yadav</h1>
 <h3 align="center">Frontend Web Developer | C++,C</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=codemaster17&label=Profile%20views&color=0e75b6&style=flat" alt="codemaster17" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codemaster17" alt="codemaster17" /></a> </p>
-
 - 🎯 I’m currently sharpening my skills of **MERN Stack**
 
 - 💻 I’m currently learning **React.js & Node.js**
@@ -16,6 +12,12 @@
 - 📫 Reach me on gmail : **cricharshit17@gmail.com**
 
 - 📄 Know about my experiences [https://bit.ly/3SDQ3XH](https://bit.ly/3SDQ3XH)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=codemaster17&label=Profile%20views&color=0e75b6&style=flat" alt="codemaster17" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codemaster17" alt="codemaster17" /></a> </p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=codemaster17&label=Profile%20views&color=0e75b6&style=flat" alt="codemaster17" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
