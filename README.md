@@ -1,7 +1,8 @@
 <h1 align="center"> I'm Harshit Yadav</h1>
 <h3 align="center">Frontend Web Developer | C++,C</h3>
 
-##🙋‍♂️About Me
+
+<h3 align="center">🙋‍♂️About Me</h3>
 
 - 🎯 I’m currently sharpening my skills of **MERN Stack**
 
