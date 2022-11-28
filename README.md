@@ -3,7 +3,7 @@
 
 
 <h3 align="center">🙋‍♂️About Me</h3>
-<div align="center> 
+
 
 - 🎯 I’m currently sharpening my skills of **MERN Stack**
 
@@ -16,7 +16,7 @@
 - 📫 Reach me on gmail : **cricharshit17@gmail.com**
 
 - 📄 Know about my experiences [Resume](https://bit.ly/3SDQ3XH)
-          </div>
+         
           
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codemaster17" alt="codemaster17" /></a> </p>
 
