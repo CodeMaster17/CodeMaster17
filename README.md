@@ -19,11 +19,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codemaster17&label=Profile%20views&color=5F8D4E&style=flat" alt="codemaster17" /> </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/harshit yadav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harshit yadav" height="30" width="40" /></a>
-<a href="https://instagram.com/harshit._._.yadav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="harshit._._.yadav" height="30" width="40" /></a>
-</p>
 
 ##🚀Languages and Tools
 
@@ -49,3 +44,10 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codemaster17&show_icons=true&locale=en&theme=react&hide_border=true&bg_color=0D1117" alt="codemaster17" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codemaster17&theme=react&hide_border=true&bg_color=0D1117" alt="codemaster17" /></p>
+
+<h3 align="center">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/harshit yadav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harshit yadav" height="30" width="40" /></a>
+<a href="https://instagram.com/harshit._._.yadav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="harshit._._.yadav" height="30" width="40" /></a>
+</p>
+
