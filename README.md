@@ -11,16 +11,14 @@
 
  <p align="center"> 👨‍💻 My Portfolio Website [https://bit.ly/3rf60b7](https://bit.ly/3rf60b7) </p>  
 
- 💬 Ask me about **Web Development**
+<p align="center">  Ask me about **Web Development** </p>  
 
- 📫 Reach me on gmail : **cricharshit17@gmail.com**
+<p align="center">  Reach me on gmail : **cricharshit17@gmail.com** </p>  
 
- 📄 Know about my experiences [Resume](https://bit.ly/3SDQ3XH)
+ <p align="center"> Know about my experiences [Resume](https://bit.ly/3SDQ3XH) </p>  
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=codemaster17&label=Profile%20views&color=5F8D4E&style=flat" alt="codemaster17" /> </p>         
           
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codemaster17" alt="codemaster17" /></a> </p>
-
 
 <h3 align="center">🚀Languages and Tools</h3>
 <p align="center"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
@@ -53,3 +51,4 @@
 <a href="https://instagram.com/harshit._._.yadav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="harshit._._.yadav" height="30" width="40" /></a>
 </p>
 
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codemaster17" alt="codemaster17" /></a> </p>
