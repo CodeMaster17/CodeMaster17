@@ -5,17 +5,17 @@
 <h3 align="center">🙋‍♂️About Me</h3>
 
 
-- 🎯 I’m currently sharpening my skills of **MERN Stack**
+<p align="center">  🎯 I’m currently sharpening my skills of **MERN Stack** </p>  
 
-- 💻 I’m currently learning **React.js & Node.js**
+<p align="center">  💻 I’m currently learning **React.js & Node.js** </p>  
 
-- 👨‍💻 My Portfolio Website [https://bit.ly/3rf60b7](https://bit.ly/3rf60b7)
+ <p align="center"> 👨‍💻 My Portfolio Website [https://bit.ly/3rf60b7](https://bit.ly/3rf60b7) </p>  
 
-- 💬 Ask me about **Web Development**
+ 💬 Ask me about **Web Development**
 
-- 📫 Reach me on gmail : **cricharshit17@gmail.com**
+ 📫 Reach me on gmail : **cricharshit17@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://bit.ly/3SDQ3XH)
+ 📄 Know about my experiences [Resume](https://bit.ly/3SDQ3XH)
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=codemaster17&label=Profile%20views&color=5F8D4E&style=flat" alt="codemaster17" /> </p>         
           
