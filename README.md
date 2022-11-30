@@ -16,11 +16,11 @@
 - 📫 Reach me on gmail : **cricharshit17@gmail.com**
 
 - 📄 Know about my experiences [Resume](https://bit.ly/3SDQ3XH)
-         
-          
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codemaster17" alt="codemaster17" /></a> </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=codemaster17&label=Profile%20views&color=5F8D4E&style=flat" alt="codemaster17" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=codemaster17&label=Profile%20views&color=5F8D4E&style=flat" alt="codemaster17" /> </p>         
+          
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codemaster17" alt="codemaster17" /></a> </p>
+
 
 <h3 align="center">🚀Languages and Tools</h3>
 <p align="center"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
@@ -41,11 +41,11 @@
 
 <h3 align="center">📈My Github Stats</h3>
 <p align="center">
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=codemaster17&show_icons=true&locale=en&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="codemaster17" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=codemaster17&show_icons=true&locale=en&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="codemaster17" /></p>
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codemaster17&show_icons=true&locale=en&theme=react&hide_border=true&bg_color=0D1117" alt="codemaster17" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codemaster17&theme=react&hide_border=true&bg_color=0D1117" alt="codemaster17" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codemaster17&theme=react&hide_border=true&bg_color=0D1117" alt="codemaster17" /></p>
 </p>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
