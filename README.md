@@ -43,7 +43,7 @@
 <p align="center">
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=codemaster17&show_icons=true&locale=en&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="codemaster17" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codemaster17&show_icons=true&locale=en&theme=react&hide_border=true&bg_color=0D1117" alt="codemaster17" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codemaster17&show_icons=true&locale=en&theme=react&hide_border=true&bg_color=0D1117" alt="codemaster17" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codemaster17&theme=react&hide_border=true&bg_color=0D1117" alt="codemaster17" /></p>
 </p>
