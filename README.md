@@ -9,7 +9,7 @@
 
 <p align="left">  💻 I’m currently learning **React.js & Node.js** </p>  
 
- <p align="left"> 👨‍💻 My Portfolio Website [https://bit.ly/3rf60b7](https://bit.ly/3rf60b7) </p>  
+ <p align="left"> 👨‍💻 My Portfolio Website [My Website](https://bit.ly/3rf60b7) </p>  
 
 <p align="left">  Ask me about **Web Development** </p>  
 
