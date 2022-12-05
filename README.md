@@ -2,20 +2,20 @@
 <h3 align="center">Frontend Web Developer | C++,C</h3>
 
 
-<h3 align="center">🙋‍♂️About Me</h3>
+<h3 align="left">🙋‍♂️About Me</h3>
 
 
-<p align="center">  🎯 I’m currently sharpening my skills of **MERN Stack** </p>  
+<p align="left">  🎯 I’m currently sharpening my skills of **MERN Stack** </p>  
 
-<p align="center">  💻 I’m currently learning **React.js & Node.js** </p>  
+<p align="left">  💻 I’m currently learning **React.js & Node.js** </p>  
 
- <p align="center"> 👨‍💻 My Portfolio Website [https://bit.ly/3rf60b7](https://bit.ly/3rf60b7) </p>  
+ <p align="left"> 👨‍💻 My Portfolio Website [https://bit.ly/3rf60b7](https://bit.ly/3rf60b7) </p>  
 
-<p align="center">  Ask me about **Web Development** </p>  
+<p align="left">  Ask me about **Web Development** </p>  
 
-<p align="center">  Reach me on gmail : **cricharshit17@gmail.com** </p>  
+<p align="left">  Reach me on gmail : **cricharshit17@gmail.com** </p>  
 
- <p align="center"> Know about my experiences [Resume](https://bit.ly/3SDQ3XH) </p>  
+ <p align="leftnow about my experiences [Resume](https://bit.ly/3SDQ3XH) </p>  
  
  
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codemaster17" alt="codemaster17" /></a> </p>
