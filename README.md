@@ -11,9 +11,9 @@
 
  <p align="left"> 👨‍💻 My Portfolio Website [My Website](https://bit.ly/3rf60b7) </p>  
 
-<p align="left">  Ask me about **Web Development** </p>  
+<p align="left"> 👉 Ask me about **Web Development** </p>  
 
-<p align="left">  Reach me on gmail : **cricharshit17@gmail.com** </p>  
+<p align="left"> ✉️ Reach me on gmail : **cricharshit17@gmail.com** </p>  
 
  <p align="leftnow about my experiences [Resume](https://bit.ly/3SDQ3XH) </p>  
  
