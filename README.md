@@ -1,7 +1,7 @@
 <h1 align="center"> I'm Harshit Yadav</h1>
 <h3 align="center">Frontend Web Developer | C++,C</h3>
 
-
+<center>
 # 💫 About Me:
 I am currently working on ReactJs
 
@@ -21,5 +21,7 @@ I am currently working on ReactJs
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Codemaster17&icon=2&color=1)](https://visitcount.itsvg.in)
+
+  </center>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
