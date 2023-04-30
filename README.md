@@ -21,9 +21,6 @@ I have 2 girlfriends React.Js and Next.Js and they make me buy Tailwind CSS for 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=CodeMaster17&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=CodeMaster17&icon=2&color=1)](https://visitcount.itsvg.in)
 
