@@ -1,8 +1,8 @@
 <h1 align="center"> I'm Harshit Yadav</h1>
-<h3 align="center">Frontend Web Developer | C++,C</h3>
+<h3 align="center">Full Stack Web Developer | Javascript, C</h3>
 
 # 💫 About Me:
-I have 2 girlfriends React.Js and Next.Js and they make me buy Tailwind CSS for their makeup<br>
+I have 2 girlfriends React.Js and Next.Js and they make me buy Tailwind CSS for their makeup.<br>
 
 
 ## 🌐 Socials:
