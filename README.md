@@ -1,6 +1,9 @@
 <h1 align="center"> I'm Harshit Yadav</h1>
 <h3 align="center">Full Stack Web Developer | NextJs | ReactJs | Javascript, Typescript</h3>
 
+![github-readme image](https://github.com/CodeMaster17/CodeMaster17/assets/96763776/e9796dc9-84d1-4dbc-8f56-d88472eac150)
+
+
 # 💫 About Me:
 I have 2 girlfriends React.Js and Next.Js and they make me buy Tailwind CSS for their makeup.<br>
 
