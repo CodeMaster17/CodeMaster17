@@ -1,7 +1,7 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=CodeMaster17&icon=2&color=1)](https://visitcount.itsvg.in) <br/> <br/>
 👋🏻 &nbsp; Heya,  I am `Harshit Yadav` <br/> <br/>
-💻 &nbsp; Love to code in `Javascript` and `Typescript`.  <br/> <br/>
+💻 &nbsp; Love to code in `Javascript`, `Typescript` and `Go`.  <br/> <br/>
 🏘️ &nbsp; Working expereince at `Corridor Platforms`, `SYMB Technologies`, `Maze`, `Yaro` and `Friska`.  <br/> <br/>
 ⚡️ &nbsp; `Ex-Technical Lead` at `Microsoft Learn Student Ambassadors, KIIT Chapter`,  `2023-24`.  <br/> <br/>
 🤓 &nbsp; Know more about my experiences at [`my-portfolio`](https://www.harshityadav.me/). <br/> <br/>
