@@ -1,12 +1,12 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=CodeMaster17&icon=2&color=1)](https://visitcount.itsvg.in) <br/> <br/>
 
+👋🏻 &nbsp; Heya,  I am `Harshit Yadav` <br/> <br/>
+
 <a href="https://www.harshityadav.me/" target="_blank">
     <img src="https://github.com/user-attachments/assets/4a7781b0-a370-480b-99c8-f3c8b93ad4ba" alt="image" />
 </a>
 
-
-👋🏻 &nbsp; Heya,  I am `Harshit Yadav` <br/> <br/>
 💻 &nbsp; Love to code in `Javascript`, `Typescript` and `Go`.  <br/> <br/>
 🏘️ &nbsp; Working expereince at `Corridor Platforms`, `SYMB Technologies`, `Maze`, `Yaro` and `Friska`.  <br/> <br/>
 ⚡️ &nbsp; `Ex-Technical Lead` at `Microsoft Learn Student Ambassadors, KIIT Chapter`,  `2023-24`.  <br/> <br/>
