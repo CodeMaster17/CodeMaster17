@@ -1,5 +1,9 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=CodeMaster17&icon=2&color=1)](https://visitcount.itsvg.in) <br/> <br/>
+
+[![image](https://github.com/user-attachments/assets/4a7781b0-a370-480b-99c8-f3c8b93ad4ba)](https://www.harshityadav.me/)
+
+
 👋🏻 &nbsp; Heya,  I am `Harshit Yadav` <br/> <br/>
 💻 &nbsp; Love to code in `Javascript`, `Typescript` and `Go`.  <br/> <br/>
 🏘️ &nbsp; Working expereince at `Corridor Platforms`, `SYMB Technologies`, `Maze`, `Yaro` and `Friska`.  <br/> <br/>
@@ -14,7 +18,3 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=CodeMaster17&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeMaster17&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
